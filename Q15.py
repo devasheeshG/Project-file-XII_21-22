@@ -1,0 +1,1 @@
+#  Q15. Write a program to display the maximum and minimum value from the list.

@@ -1,0 +1,1 @@
+#  Q14. Write a program to input a string end converts all upper case letter to lower case later and lower case letter to upper case letter.

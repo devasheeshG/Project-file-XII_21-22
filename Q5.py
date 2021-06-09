@@ -1,0 +1,1 @@
+# Q5. Write a program to input a number and test if it is a prime number or not.

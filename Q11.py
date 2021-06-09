@@ -1,0 +1,1 @@
+#  Q11. Write a program to input a string and check if it is a palindrome string or not.

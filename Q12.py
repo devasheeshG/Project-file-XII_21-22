@@ -1,0 +1,1 @@
+#  Q12.  Write  a  program  that  reads  a  line  and  a  character.  It  should  display  the number of occurrences of the given character in the line

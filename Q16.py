@@ -1,0 +1,1 @@
+#  Q16.  Write  a  program  to  input  a  number  and  a  list  and    search  the  element  from given list.

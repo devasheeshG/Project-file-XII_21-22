@@ -1,0 +1,1 @@
+# Q3. Write a program to print table of a given number by user.

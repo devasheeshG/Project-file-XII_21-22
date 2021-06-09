@@ -1,0 +1,1 @@
+#  Q10. Write a program to read a string and display it in reverse order.

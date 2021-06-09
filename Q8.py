@@ -1,0 +1,1 @@
+#  Q8. Write a program to input a number and check the given number is Armstrong number or not. (Only three digits of numbers)

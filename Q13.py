@@ -1,0 +1,1 @@
+#  Q13. Write a program to input a string and print each individual word of it along with its length.

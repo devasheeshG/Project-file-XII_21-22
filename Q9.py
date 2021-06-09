@@ -1,0 +1,1 @@
+# Q9. Write a program to print a Fibonacci sequence of the n numbers.
